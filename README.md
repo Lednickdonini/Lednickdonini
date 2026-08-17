@@ -26,7 +26,7 @@
 - 💻 Estudando atualmente: **Design Profissional**, **Desenvolvimento Front-end para Web**, **Algoritmos e Pensamento Computacional** e **Modelagem de Banco de Dados**
 - 🐍 Já tenho contato com **Python** e **Java** e estou aprofundando aos poucos
 - 🎯 Objetivo: me tornar **Desenvolvedora Full Stack**
-- 🦇 Tema favorito de código: Catpuccin Mocha
+- ☕ Tema favorito de código: Catpuccin Mocha
 
 ---
 
