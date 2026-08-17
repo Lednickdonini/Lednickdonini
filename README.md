@@ -24,9 +24,9 @@
 
 - 🎓 Estudante de **Engenharia de Software**
 - 💻 Estudando atualmente: **Design Profissional**, **Desenvolvimento Front-end para Web**, **Algoritmos e Pensamento Computacional** e **Modelagem de Banco de Dados**
-- 🐍 Já tenho contato com **Python** e estou aprofundando aos poucos
+- 🐍 Já tenho contato com **Python** e **Java** e estou aprofundando aos poucos
 - 🎯 Objetivo: me tornar **Desenvolvedora Full Stack**
-- 🦇 Tema favorito de código: Dracula (óbvio, né?)
+- 🦇 Tema favorito de código: Catpuccin Mocha
 
 ---
 
